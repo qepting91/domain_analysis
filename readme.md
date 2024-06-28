@@ -24,7 +24,9 @@ This Python script performs a comprehensive analysis of a given domain, gatherin
 1. Clone the repository:
 
 ```
-git clone https://github.com/Frontsightvc/domain_analysis.git cd domain-analysis-tool
+git clone https://github.com/Frontsightvc/domain_analysis.git 
+
+cd domain_analysis
 ```
 
 2. Install the required packages:
@@ -55,7 +57,7 @@ The script will generate a 'report.pdf' file in the same directory.
 
 ```
 !git clone https://github.com/Frontsightvc/domain_analysis.git
-%cd domain-analysis-tool
+%cd domain_analysis
 !pip install -r requirements.txt
 ```
 
