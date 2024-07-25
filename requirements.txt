@@ -4,3 +4,5 @@ python-whois
 dnspython
 pygeoip
 reportlab
+oxdork
+wayback

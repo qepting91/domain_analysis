@@ -1,0 +1,10 @@
+site:{domain}
+inurl:{domain} filetype:pdf
+site:{domain} intext:password
+site:{domain} intitle:"index of"
+site:{domain} inurl:admin
+site:{domain} inurl:login
+site:{domain} ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini
+site:{domain} inurl:wp-content
+site:{domain} inurl:phpinfo
+site:{domain} "powered by"
